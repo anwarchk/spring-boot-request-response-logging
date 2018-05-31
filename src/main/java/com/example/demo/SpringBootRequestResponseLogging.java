@@ -9,6 +9,10 @@ import org.springframework.boot.web.servlet.FilterRegistrationBean;
 import org.springframework.context.annotation.Bean;
 import org.springframework.web.bind.annotation.*;
 
+/**
+ * @author Anwar Chirakkattil
+ */
+
 @SpringBootApplication
 @RestController
 @Slf4j
